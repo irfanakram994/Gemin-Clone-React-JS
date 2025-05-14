@@ -125,4 +125,4 @@ This project is for educational and experimental use. Refer to the [Google Gemin
 * Inspired by the design and functionality of **Gemini**
 
 ---
-                                                          ## Developed by:   Irfan Ali
+                                                        Developed by:   Irfan Ali
